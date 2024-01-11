@@ -1,6 +1,6 @@
 # David Ulloa
 
-🌐 [Website](https://www.dulloa.com) | 🌍 [LinkedIn](https://www.linkedin.com/in/david-ulloa-785396184/)
+🌐 [Website](https://personal-site-mac.vercel.app/) | 🌍 [LinkedIn](https://www.linkedin.com/in/david-ulloa-785396184/)
 
 ## About Me
 
