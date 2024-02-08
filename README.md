@@ -23,4 +23,4 @@ Hello! I'm David, a passionate programmer and full-stack web developer with lead
 - Individual and group fairness of Graph Neural Networks (ICML 2024 Submission)
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/david-ulloa-785396184/) or check out my [website](https://www.dulloa.com) for more details about my projects and experiences.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/david-ulloa-785396184/) or check out my [website](https://personal-site-mac.vercel.app/) for more details about my projects and experiences.
