@@ -8,8 +8,12 @@ Hello! I'm David, a passionate programmer and full-stack web developer with lead
 
 - **Prev. SWE + PM Intern @ Microsoft** (May 2023 - August 2023)
   - Location: Redmond, Washington
-- **Google** - Tech Exchange Scholar (Jan 2023 - May 2023)
-  - Taught in-depth concepts of software engineering and algorithms by Google engineers
+  - Used SQL-like language for data analytics of big data to decide coverage of a [Bing Explorational Search Box](https://drive.google.com/file/d/1K73hFHpGcPHcD89lvNLv1ABPVsLmzt4t/view?usp=sharing), settling on 1% of Bing traffic - 1 million daily users.
+  - Studied and implemented prompt engineering for the generation of content used in a Bing Explorational Search Box, then made change with C# framework [so results can be passed to the frontend UX teams](https://drive.google.com/file/d/1u42lAJZdYxqgZm_XwzmCSLEuH-V0HBM3/view?usp=sharing).
+- **Google** - Software Engineering Intern (May 2024 - August 2024)
+  - Location: Sunnyvale, California 
+  - Developed and designed end-to-end RAG system in Kotlin, Go, and TypeScript for user git repositories, informing external and internal chat systems on relevant code for user queries, integrating with larger micro-service architecture / frontend.
+  - Constructed pipeline for processing repositories, fetching repositories from distributed crawling service, building an Abstract Syntax Tree for finding important snippets, generating code-specific embeddings, and doing similarity search based on a user query.
 - **INIT FIU - President** - Miami, Florida
   - Former Director of Technology (Jan 2023 - December 2023)
   - Skills: Full-Stack Development, TypeScript, Docker, CSPs (AWS), Project Management
