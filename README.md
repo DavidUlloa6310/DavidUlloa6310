@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm David, a passionate programmer and full-stack web developer with leadership and research skills. I'm on a mission to make a significant impact in my community and beyond. I'm a former Microsoft Intern at the Bing team and deeply involved in various tech initiatives at Florida International University.
+Hello! I'm David, a passionate programmer and full-stack engineer with leadership and research skills. I'm on a mission to make a significant impact in my community and beyond. I'm a former Google Software Engineering Intern where I worked on parsing code repositories for LLM context. Currently working on applying my skills in deep learning through research.
 
 - **INIT FIU - President** - Miami, Florida (Jan 2024 - December 2024)
   - Former Director of Technology (Jan 2023 - December 2023)
@@ -21,10 +21,9 @@ Hello! I'm David, a passionate programmer and full-stack web developer with lead
 ## Publications
 - [Individual Fairnes with Group Constraints in Graph Neural Networks (ECAI 2024)](https://ebooks.iospress.nl/doi/10.3233/FAIA240679)
 
-## Interests
+## Snippets
 
-- Research in tech with a focus on machine learning and full-stack development.
-- Engaging with the tech community, attending hackathons, and contributing to open-source projects.
+- [Intro to Gradient Descent](https://gist.github.com/DavidUlloa6310/b8e93cb20e60f2a9d626a9bfe0a8b0bf): A Python Notebook which goes through how gradient descent work and implementing a scalar auto-differentiation engine from scratch.
 ---
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/david-ulloa-785396184/) or check out my [website](https://personal-site-mac.vercel.app/) for more details about my projects and experiences.
