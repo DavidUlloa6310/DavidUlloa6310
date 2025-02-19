@@ -24,6 +24,7 @@ Hello! I'm David, a passionate programmer and full-stack engineer with leadershi
 ## Snippets
 
 - [Intro to Gradient Descent](https://gist.github.com/DavidUlloa6310/b8e93cb20e60f2a9d626a9bfe0a8b0bf): A Python Notebook which goes through how gradient descent work and implementing a scalar auto-differentiation engine from scratch.
+- [Neural Network Architectures with Jax](https://gist.github.com/DavidUlloa6310/827e5ce7111b6ff769a1b0b6f54eb0f2): Implementations of a linear regression model, MLP, CNN, RNN, and RNN w/ LSTM mechanism from scratch using Jax.
 ---
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/david-ulloa-785396184/) or check out my [website](https://personal-site-mac.vercel.app/) for more details about my projects and experiences.
