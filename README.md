@@ -26,6 +26,7 @@ Hello! I'm David, a passionate programmer and full-stack engineer with leadershi
 - [Intro to Gradient Descent](https://gist.github.com/DavidUlloa6310/b8e93cb20e60f2a9d626a9bfe0a8b0bf): A Python Notebook which goes through how gradient descent work and implementing a scalar auto-differentiation engine from scratch.
 - [Neural Network Architectures with Jax](https://gist.github.com/DavidUlloa6310/827e5ce7111b6ff769a1b0b6f54eb0f2): Implementations of a linear regression model, MLP, CNN, RNN, and RNN w/ LSTM mechanism from scratch using Jax.
 - [GPT-2 From Scratch](https://gist.github.com/DavidUlloa6310/9a9d488d199802c536265c0dd9d12676): From-scratch implementation of GPT-2 in Jax, trained on OpenWebText dataset and improved using a KV-Cache for faster inference & training.
+- [Intro to Ollama & HuggingFace](https://gist.github.com/DavidUlloa6310/9163c42e062a45ad19f0296f6b234324): Begginner friendly guide on using Ollama for running models locally and HuggingFace for pipelines, inferencing, and uploading open-source models or datasets.
 ---
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/david-ulloa-785396184/) or check out my [website](https://personal-site-mac.vercel.app/) for more details about my projects and experiences.
